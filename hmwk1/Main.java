@@ -1,4 +1,15 @@
-package org.example;
+package org.example.hmwk1;
+
+
+import org.example.hmwk1.adapter.CheckService;
+import org.example.hmwk1.adapter.MernisService;
+import org.example.hmwk1.entity.Campaign;
+import org.example.hmwk1.entity.Customer;
+import org.example.hmwk1.entity.Game;
+import org.example.hmwk1.service.concretes.CampaignManager;
+import org.example.hmwk1.service.concretes.GameManager;
+import org.example.hmwk1.service.concretes.SellingManager;
+import org.example.hmwk1.service.concretes.UserManager;
 
 
 
